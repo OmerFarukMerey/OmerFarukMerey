@@ -5,4 +5,6 @@ Hi, I am Ömer Faruk!<br>Senior Year Computer Science Student a TOBB University 
 ---
 [![](https://visitcount.itsvg.in/api?id=OmerFarukMerey&icon=5&color=3)](https://visitcount.itsvg.in)
 
+![](https://komarev.com/ghpvc/?username=OmerFarukMerey)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
