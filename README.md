@@ -1,6 +1,5 @@
 # 💫 About Me:
 Hi, I am Ömer Faruk!<br>Senior Year Computer Science Student a TOBB University of Economics and Technology.<br>
-Part-time Software Engineer at Turkish Aerospace Industries Inc. (TAI)<br>
 I am very interested in the field of Data Science, Artificial Intelligence and Web Development. Other than that, I generally like to code 😋 <br> <br>
 *(Update) I will be working as a Full Stack Development intern at SIEMENS untill the end of 2023.*
 ## 🌐 Socials:
